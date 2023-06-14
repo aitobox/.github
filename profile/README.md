@@ -44,3 +44,7 @@ AiToBox 简单的分为 [ATBClient](https://github.com/aitobox/ATBClient) 和[AT
    - 信用评分：根据Client端的历史记录和表现，进行信用评分，评分高的Client端可以获得更高的任务奖励，激励诚实工作和打击造假。
 
 总体设计目标：保证平台的安全性、可靠性和公平性，促进用户的参与和奖励诚实工作。
+
+# 讨论
+
+可以到 [这里](https://github.com/orgs/aitobox/discussions) 来进行更多细节讨论
