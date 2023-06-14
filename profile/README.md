@@ -20,7 +20,7 @@ AiToBox承诺全面保护用户的隐私。我们采取严格的安全措施，�
 
 # 技术架构
 
-AiToBox 简单的分为 Client和Server 两个部分:
+AiToBox 简单的分为 [Client](https://github.com/aitobox/Client) 和[Server](https://github.com/aitobox/Server) 两个部分:
 
 
 1. Server端功能：
