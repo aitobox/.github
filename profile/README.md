@@ -35,7 +35,7 @@ AiToBox 简单的分为 [ATBClient](https://github.com/aitobox/ATBClient) 和[AT
    - 结果上传：完成任务后，Client端使用公钥加密任务结果，然后上传至Server端进行验证和处理。
 
 3. 防作弊机制：
-   - 非对称机密算法：为每个Client端生成一对公私钥，Client端只持有公钥。Server端使用私钥对任务进行加密，Client端使用公钥解密任务，以确保任务的安全传输。
+   - 非对称加密算法：为每个Client端生成一对公私钥，Client端只持有公钥。Server端使用私钥对任务进行签名，Client端使用公钥验证任务有效性，以确保任务的安全传输。
    - 结果加密：Client端使用公钥加密任务结果，上传至Server端。Server端使用私钥解密任务结果，确保结果的保密性和完整性。
 
 4. 任务工作量验证和奖励机制：
