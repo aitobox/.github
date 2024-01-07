@@ -2,6 +2,12 @@
 
 A massive crowdsourced distributed inference cluster Platform for AI Models. It allows people without a powerful GPU to use Stable Diffusion or Large Language Models like Pygmalion/Llama by relying on spare/idle resources provided by the community. It also allows non-python clients, such as games and apps, to use AI-provided generations.
 
+## 我们同时建立了一个资讯站点，用来同步AI最新技术信息和应用
+
+https://github.com/aitobox/newsweekly
+
+欢迎来提交你的服务；
+
 ## 说明
 
 AiToBox 旨在建立一个的AI训练众包平台；家里有显卡的小伙伴可以把闲置的设备租出去赚取收益；而没有强力计算设备的用户无需花费大量资金购买设备， 只需登录平台，提交任务即可进行AI训练；
