@@ -12,3 +12,9 @@ https://github.com/aitobox/newsweekly
 欢迎来提交你的服务；
 
 
+## 我们的项目
+
+#### 
+[艾特智能写作工厂-用AI帮您创作长篇小说](https://github.com/aitobox/ATBNovel)
+
+
