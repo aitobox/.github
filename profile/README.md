@@ -17,4 +17,7 @@ https://github.com/aitobox/newsweekly
 #### 
 [艾特智能写作工厂-用AI帮您创作长篇小说](https://github.com/aitobox/ATBNovel)
 
+####
+[艾特朗诵家-AI技术构建的高保真文学朗诵与有声书配音平台](https://github.com/aitobox/ATBard)
+
 
