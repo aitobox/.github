@@ -7,7 +7,7 @@
 
 ## 我们同时建立了一个资讯站点，用来同步AI最新技术信息和应用
 
-https://github.com/aitobox/newsweekly
+https://github.com/aitobox/ATBNewsWeekly
 
 欢迎来提交你的服务；
 
